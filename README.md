@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Stanislas237
-- 👀 I’m interested in game programming and mangas
-- 🌱 I’m currently learning Python (Pygame), C#, JavaScript, and some stuff for Web Programmation
-- 📫 How to reach me WhatsApp : +237620145129
+- 👀 I’m interested in game programming and mangas / Animes
+- 🌱 I’m currently working on mobile development on Unity for my latest internship
+- 📫 How to reach me  
+            WhatsApp : +237620145129  
+            Telegram : https://t.me/stanK237  
+            Discord : stanKamga  
 - 😄 Pronouns: He
 
 <!---
