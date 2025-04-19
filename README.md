@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on mobile development on Unity for my latest internship
 - 📫 How to reach me  
             WhatsApp : +237620145129  
-            Telegram : https://t.me/stanK237  
+            Telegram : https://t.me/stanK237 ([My Telegram Channel](https://t.me/unity_engine_stan_co))  
             Discord : stanKamga  
 - 😄 Pronouns: He
 
