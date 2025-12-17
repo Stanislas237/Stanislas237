@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Stanislas237
 - 👀 I’m interested in game programming and mangas / Animes
-- 🌱 I’m currently working on mobile development on Unity for my latest internship
+- 🌱 I’m currently working on openGL for 3D Development  
 - 📫 How to reach me  
-            WhatsApp : +237620145129  
-            Telegram : https://t.me/stanK237 ([My Telegram Channel](https://t.me/unity_engine_stan_co))  
+            WhatsApp : +237677182579  
+            Telegram : https://t.me/unity_engine_stan_co  
             Discord : stanKamga  
 - 😄 Pronouns: He
 
